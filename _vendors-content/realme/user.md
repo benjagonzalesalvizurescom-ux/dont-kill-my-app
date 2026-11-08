@@ -1,4 +1,4 @@
----
+redmi note 14 pro+ 5G 
 manufacturer: 
     - realme
 
